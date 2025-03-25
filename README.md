@@ -1,4 +1,4 @@
-# Merge-sub
+# Merge-sub  随机token可以自定义，设置加环境变量 SUB_TOKEN
 将多个子订阅链接和单节点合并成一个订阅链接，可自定义优选域名或优选ip
 * 在线体验地址：https://merge.serv00.net   用户名和密码均为admin 演示站不要尝试改密码，已禁用
 
